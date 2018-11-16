@@ -1,6 +1,6 @@
 # Face Recognition Project Matlab-Code
  Face Recognition Project Matlab Code
  
+ Run :GuiMain.p
  
- 
- Email : hatem_hajri@matlab-recognition-code.com
+ Need a Help ! just Email Us : hatem_hajri@matlab-recognition-code.com
